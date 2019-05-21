@@ -1,5 +1,8 @@
-# React_create_theFirstApp
-Create React App  
+# Create React App  
+
+@ npm v 6.4.1
+
+@ node v10.15.2
 
 Link to <a href='https://facebook.github.io/create-react-app/docs/getting-started'> Tutorial </a>
 
@@ -10,8 +13,6 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
 
 1. Before getting start, need to install Git and NPM(Node) 
 
-npm v 6.4.1
-node v10.15.2
 
 2. install create-react-app
 
