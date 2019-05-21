@@ -43,5 +43,22 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
             ├── index.js
             ├── logo.svg
             └── serviceWorker.js
-            
-5. Open http://localhost:3000 in the browser to see running the app
+ 
+ 5. public/index.html
+ 
+       the default page
+ 
+ 6. src/index.js
+ 
+       the JavaScript entry point
+ 
+ 7. src/App.js
+       
+       the react page and index.js can rend App
+       
+ 8. package.json
+ 
+       json file for setting the app like app name, version, dependencies, available scripts
+ 
+  
+ 9. Open http://localhost:3000 in the browser to see running the app
