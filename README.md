@@ -71,4 +71,4 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
  
  View the Simple App with an image and text 
  
- <img src="img/theFirstApp.png" width="500px" > 
+ <img src="img/theFirstApp.PNG" width="500px" > 
