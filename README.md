@@ -50,17 +50,23 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
  
  6. src/index.js
  
-       the JavaScript entry point and import React and ReactDom
+       this file is the JavaScript entry point 
        
-       And import other component to rend
+       need to import React and ReactDom
+       
+       And import other component to render 
        
          import React from 'react';
          import ReactDOM from 'react-dom';
          import App from './App';
- 
+   
  7. src/App.js
        
        the react page using ES6
+       
+       need to export with a name like App to use from other js files
+       
+        export default App;
        
  8. package.json
  
