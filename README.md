@@ -50,11 +50,17 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
  
  6. src/index.js
  
-       the JavaScript entry point
+       the JavaScript entry point and import React and ReactDom
+       
+       And import other component to rend
+       
+         import React from 'react';
+         import ReactDOM from 'react-dom';
+         import App from './App';
  
  7. src/App.js
        
-       the react page and index.js can rend App
+       the react page using ES6
        
  8. package.json
  
@@ -62,3 +68,7 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
  
   
  9. Open http://localhost:3000 in the browser to see running the app
+ 
+ View the Simple App with an image and text 
+ 
+ <img src="img/theFirstApp.png" width="500px" > 
