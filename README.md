@@ -75,6 +75,10 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
   
  9. Open http://localhost:3000 in the browser to see running the app
  
- View the Simple App with an image and text 
+    To change the page, edit App.js
+    
+ 10. View the Simple App 
+ 
+ I added my picture and the link to my Github page
  
  <img src="img/theFirstApp.PNG" width="450px" > 
