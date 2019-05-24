@@ -79,6 +79,6 @@ Link to <a href='https://facebook.github.io/create-react-app/docs/getting-starte
     
  10. View the Simple App 
  
- I added my picture and the link to my Github page
+ I added my picture and showed the link to my Github page
  
- <img src="img/theFirstApp.PNG" width="450px" > 
+ <img src="img/theFirstApp.PNG" width="400px" > 
